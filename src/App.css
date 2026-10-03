@@ -372,7 +372,7 @@
       rgba(15, 14, 12, 0.68) 45%,
       rgba(15, 14, 12, 0.25) 100%
     ),
-    url("/images/hero-pavers.jpg") center / cover no-repeat;
+    url("/AllStages/images/hero-pavers.jpg") center / cover no-repeat;
 
   color: var(--white);
 }
@@ -488,7 +488,7 @@
       rgba(0, 0, 0, 0.1),
       rgba(0, 0, 0, 0.1)
     ),
-    url("/images/about-pavers.jpg") center / cover no-repeat;
+    url("/AllStages/images/about-pavers.jpg") center / cover no-repeat;
 }
 
 .about-content {
@@ -725,19 +725,19 @@
 }
 
 .project-card:nth-child(1) .project-image {
-  background-image: url("/images/project-1.jpg");
+  background-image: url("/AllStages/images/project-1.jpg");
 }
 
 .project-card:nth-child(2) .project-image {
-  background-image: url("/images/project-2.jpg");
+  background-image: url("/AllStages/images/project-2.jpg");
 }
 
 .project-card:nth-child(3) .project-image {
-  background-image: url("/images/project-3.jpg");
+  background-image: url("/AllStages/images/project-3.jpg");
 }
 
 .project-card:nth-child(4) .project-image {
-  background-image: url("/images/project-4.jpg");
+  background-image: url("/AllStages/images/project-4.jpg");
 }
 
 .project-overlay {
