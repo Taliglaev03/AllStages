@@ -917,7 +917,7 @@
       rgba(161, 78, 56, 0.96),
       rgba(126, 56, 40, 0.96)
     ),
-    url("/images/cta-pavers.jpg") center / cover;
+    url("/AllStages/images/cta-pavers.jpg") center / cover;
 
   color: var(--white);
 }
